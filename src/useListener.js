@@ -24,7 +24,7 @@ window.addEventListener('scroll',()=>{
     const newpage = Math.round(window.scrollY / window.innerHeight);
     if(newpage !== currentpage){
         currentpage = newpage;
-        //gsap:进行旋转
+        //gsap:进行旋转1
         // gsap.to(arrgroup[currentpage].rotation,{
         //     z:"+="+Math.PI,
         //     duration:1,
