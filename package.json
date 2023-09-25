@@ -1,0 +1,16 @@
+{
+  "name": "audreythree",
+  "version": "1.0.0",
+  "description": "#### 介绍 关于three.js基础创建的方法封装",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "audreychen",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.12.2",
+    "three": "^0.156.1"
+  }
+}
