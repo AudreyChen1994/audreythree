@@ -1,6 +1,6 @@
 //监听网页画面变化
 export const pageChangeListener = (camera) =>{
-    //监听画面变化，更新渲染画面
+    //监听画面变化，更新渲染windows画面
 window.addEventListener('resize', () => {
     // console.log('画面变化了');
     //更新摄像头,宽高比
