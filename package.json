@@ -1,9 +1,8 @@
 {
   "name": "audreythree",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "#### 介绍 关于three.js基础创建的方法封装",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
