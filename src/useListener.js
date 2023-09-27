@@ -37,8 +37,8 @@ window.addEventListener('scroll',()=>{
 
 })
 }
-return {
-    pageChangeListener,
-    pageScrollListener
+// return {
+//     pageChangeListener,
+//     pageScrollListener
 
-}
+// }
